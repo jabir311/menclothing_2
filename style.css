@@ -446,6 +446,12 @@ b{
         grid-template-columns: repeat(1,auto);
     }
 }
+@media (max-width: 343px){
+    #un{
+        font-size: 15px;
+        width: 300px;
+    }
+}
 @media (max-width: 320px) {
     #un{
         font-size: 15px;
