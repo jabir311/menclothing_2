@@ -431,6 +431,10 @@ b{
 #phone{
     font-size: 10px;
 }
+.section4{
+      
+    grid-template-columns: repeat(1,auto);
+}
 }
 @media (max-width: 378px) {
     #un{
