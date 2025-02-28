@@ -410,7 +410,7 @@ color: #84a98c;
    }
    #un{
     font-size: 15px;
-    width: 400px;
+    width: 300px;
 }
 .section4{
     padding: 40px;
@@ -437,21 +437,18 @@ b{
 }
 }
 @media (max-width: 378px) {
-    #un{
-        font-size: 15px;
-        width: 350px;
-    }
+ 
     .section4{
       
         grid-template-columns: repeat(1,auto);
     }
 }
-@media (max-width: 343px){
+/* @media (max-width: 343px){
     #un{
         font-size: 15px;
         width: 300px;
     }
-}
+} */
 @media (max-width: 320px) {
     #un{
         font-size: 15px;
